@@ -1,4 +1,4 @@
-# cash-cast
+# CashCast
 
 _Forecast Your Finances, Stress Less._
 
