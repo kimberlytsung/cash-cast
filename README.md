@@ -1,4 +1,7 @@
 # cash-cast
+
+_Forecast Your Finances, Stress Less._
+
 CashCast is a financial forecasting &amp; protection tool built with the Capital One Nessie API, Python, and Streamlit for HackGT. It projects your cash flow, identifies potential overdrafts, and recommends smart actions (like savings transfers or spending adjustments).
 
 # Product Pitch
